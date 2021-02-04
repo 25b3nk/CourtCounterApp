@@ -6,3 +6,4 @@ This app helps keep track of basketball scores for the two teams that are playin
 
 Screenshot of the App
 ![image|144x304](./others/ss1.png "Court Counter")
+
